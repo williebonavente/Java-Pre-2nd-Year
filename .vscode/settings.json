@@ -1,0 +1,11 @@
+// Insert the necessary settings here.
+[
+    {
+        "task": "todo item one",
+        "completed": false
+    },
+    {
+        "task": "completed item",
+        "completed": true
+    }
+]
